@@ -1005,6 +1005,8 @@ body {
     font-size: 18px;
     line-height: 1.55;
     letter-spacing: 0.03em;
+    min-width: 370px;
+    min-height: 294px;
     padding: 63px 24px;
     color: var(--primary-title-color);
     background-color: var(--accent-color);

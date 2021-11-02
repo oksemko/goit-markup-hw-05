@@ -327,6 +327,7 @@ body {
 }
 
 .modal-btn {
+  position: absolute;
   border: 1px solid rgba(0, 0, 0, 0.1);
   background-color: var(--background-color);
   width: 30px;
@@ -334,6 +335,9 @@ body {
   border-radius: 50%;
   top: 8px;
   right: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /*-----container-----*/

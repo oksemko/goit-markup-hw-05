@@ -241,10 +241,6 @@ body {
   margin-right: 10px;
 }
 
-::after {
-  content: "";
-}
-
 /*-----hero-----*/
 
 .hero {
